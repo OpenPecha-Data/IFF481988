@@ -1,0 +1,99 @@
+id: c195b73b46d44d799d8d18ccac4b4ec2
+annotation_type: Language
+revision: '00001'
+annotations:
+  60576dd78c0345ea8920a3c132d5cbab:
+    span:
+      start: 39
+      end: 174
+    language: en
+  5df9ff0ae77f46f3a92e01b30652b273:
+    span:
+      start: 202
+      end: 244
+    language: en
+  9653fce3adf449ac883abb2442d088c7:
+    span:
+      start: 270
+      end: 785
+    language: en
+  f9129e4501e34bf0a9f95d7228483e9e:
+    span:
+      start: 805
+      end: 944
+    language: en
+  6c2e2c162a0e4478aeec084ea9321046:
+    span:
+      start: 985
+      end: 1255
+    language: en
+  f60b5b913dbc48a29c8077482b77f644:
+    span:
+      start: 1314
+      end: 1342
+    language: en
+  37ab6efebd424ba0ba5cf5b635acddf7:
+    span:
+      start: 6190
+      end: 6315
+    language: en
+  4fb9b48c27b54fb19e99bf141a281e1f:
+    span:
+      start: 19822
+      end: 19955
+    language: en
+  21ce9b8ecb544397ae85b822e7282aea:
+    span:
+      start: 50140
+      end: 50273
+    language: en
+  f4a8abcd444d405fada623bd97bc6fd2:
+    span:
+      start: 57277
+      end: 57562
+    language: en
+  cd943d8460d24b1b815195e4c1cdb76d:
+    span:
+      start: 68776
+      end: 68908
+    language: en
+  ac73925a361645bb8a0330e411173803:
+    span:
+      start: 85681
+      end: 85707
+    language: en
+  3b0c146cad0a44b39ead83e9c4086a35:
+    span:
+      start: 99188
+      end: 99334
+    language: en
+  e03194f3bdb24d3e90eaff0c4e7a2590:
+    span:
+      start: 119060
+      end: 119189
+    language: en
+  24719531670c415d9902e9acdab5f839:
+    span:
+      start: 157627
+      end: 157770
+    language: en
+  6cdc622c9d1949c499beda65b4fbc4d1:
+    span:
+      start: 161597
+      end: 161762
+    language: en
+  58d6449e07684bf98bf4b9a2c0bef4b7:
+    span:
+      start: 166123
+      end: 166245
+    language: en
+  7b9d42cbbefd4ab9af606a201bda9f85:
+    span:
+      start: 184103
+      end: 184227
+    language: en
+  f51a6a3e0edd45c0bc8eaf0de6304e59:
+    span:
+      start: 184879
+      end: 185017
+    language: en
